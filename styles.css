@@ -1,0 +1,21 @@
+body
+button{
+    padding: 10px;
+    margin-left: 20px;
+}
+.tooltip-container{
+padding: 2rem;
+margin: auto;
+width: 90%;
+}
+
+.hover{
+    margin-top: 20px;
+}
+.hover-element{
+    margin-top: 5px;
+}
+.tooltip{
+    color: red;
+    margin-top: 15px;
+}
